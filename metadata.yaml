@@ -1,0 +1,36 @@
+_repo: The-Escape-of-Mr.-TrimmHis-Plight-and-other-Plights_24799
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Cobb, Irvin S. (Irvin Shrewsbury)
+    alias: Cobb, Irvin Shrewsbury
+    birthdate: 1876
+    deathdate: 1944
+    gutenberg_agent_id: '559'
+    url: http://www.gutenberg.org/2009/agents/559
+    wikipedia: http://en.wikipedia.org/wiki/Irvin_S._Cobb
+description: Series of articles from The Saturday Evening Post and vol. 24, no. 2
+  of The Cavalier.
+gutenberg_issued: '2008-03-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24799'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Crime -- Fiction'
+- !lcsh 'Short stories'
+- !lcsh 'Judges -- Fiction'
+tableOfContents: The escape of Mr. Trimm -- The belled buzzard -- An occurrence up
+  a side street -- Another of those cub reporter stories -- Smoke of battle -- The
+  exit of Anse Dugmore -- To the editor of the Sun -- Fishhead -- Guilty as charged.
+title: 'The Escape of Mr. Trimm
+
+  His Plight and other Plights'
+url: http://www.gutenberg.org/ebooks/24799
