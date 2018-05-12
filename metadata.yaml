@@ -14,6 +14,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Irvin_S._Cobb
 description: Series of articles from The Saturday Evening Post and vol. 24, no. 2
   of The Cavalier.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24799#The-Escape-of-Mr.-TrimmHis-Plight-and-other-Plights
 gutenberg_issued: '2008-03-11'
 gutenberg_type: Text
 identifiers:
